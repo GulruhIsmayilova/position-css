@@ -1,0 +1,35 @@
+.slider {
+    width: 620px;
+    height: 503px;
+    position: fixed;
+}
+.slider img {
+    width: 100%;
+    height: 100%;
+}
+.slider .date {
+    background-color:rgba(24,148,160,.8);
+    padding: 6px 7px;
+    color: white;
+    font-size: 20px;
+    font-weight: 500px;
+    position: absolute;
+    bottom: 85px;
+} 
+.slider .date span {
+ margin-left: 10px;
+}
+.slider .title {
+    background-color: rgba(0,0,0,.8);
+    padding: 16px;
+    color: white;
+    font-size: 18 px;
+    font-weight:400px;
+    position: absolute;
+    bottom: 0px;
+
+}
+
+body{
+    height: 13234px;
+  }
